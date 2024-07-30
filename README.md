@@ -18,3 +18,15 @@
 ### Imperative vs. declarative programming
 - In other words, imperative programming is like giving a chef step-by-step instructions on how to make a pizza. Declarative programming is like ordering a pizza without being concerned about the steps it takes to make the pizza. 🍕
 - <b> React is a popular declarative library that you can use build user interfaces. </b>
+
+### JSX
+- JSX is a syntax extension for JavaScript that allows you to describe your UI in a familiar HTML-like syntax. 
+- The nice thing about JSX is that apart from following three JSX rules, you don't need to learn any new symbols or syntax outside of HTML and JavaScript.
+- But browsers don't understand JSX out of the box, so you'll need a JavaScript compiler, such as a Babel, to transform your JSX code into regular JavaScript.
+- <b>3 rules of JSX</b> https://react.dev/learn/writing-markup-with-jsx#the-rules-of-jsx
+    1. Return a single root element 
+        - If you don’t want to add an extra <div> to your markup, you can write <> and </> instead. 
+        - This empty tag is called a Fragment. Fragments let you group things without leaving any trace in the browser HTML tree.
+    2. Close all the tags 
+    3. camelCase all most of the things! 
+- https://transform.tools/html-to-jsx Converter
