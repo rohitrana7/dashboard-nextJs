@@ -1,5 +1,6 @@
 # dashboard-nextJs-official-tut
-A project features of NextJs and ReactJS demonstrating a dashboard 
+- A project features of NextJs and ReactJS demonstrating a dashboard
+- Tutorial from https://nextjs.org/learn/react-foundations/getting-started-with-react
 
 ### What is Next.js?
 - Next.js is a React framework that gives you building blocks to create web applications.
